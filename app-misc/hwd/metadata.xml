@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE pkgmetadata SYSTEM "https://www.gentoo.org/dtd/metadata.dtd">
 <pkgmetadata>
-	<maintainer type="person">
-		<name>cvuuhk</name>
-		<email>cvuuhk@qq.com</email>
-	</maintainer>
-	<longdescription>
-        sssssssssssssssssssssssssssssssssssssssssssssssssssssss
-	</longdescription>
-	<upstream>
-		<remote-id type="github">cvuuhk/hwd</remote-id>
-	</upstream>
+  <maintainer type="person">
+    <email>im@cuishuhao.com</email>
+    <description>maintainer</description>
+  </maintainer>
+  <longdescription>
+    description
+  </longdescription>
+  <upstream>
+    <remote-id type="github">cvuuhk/hwd</remote-id>
+  </upstream>
 </pkgmetadata>
