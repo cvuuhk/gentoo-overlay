@@ -11,4 +11,7 @@
   <upstream>
     <remote-id type="github">cvuuhk/hwd</remote-id>
   </upstream>
+  <use>
+      <flag name="goodbye">print goodbye after printing hello</flag>
+  </use>
 </pkgmetadata>
